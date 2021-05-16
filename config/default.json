@@ -1,0 +1,19 @@
+{
+    "mysql": {
+        "host": "shasansetu-prod-db.cu1naawrbgxy.ap-south-1.rds.amazonaws.com",
+        "port": "3306",
+        "database": "competition",
+        "user": "ayush",
+        "password": "ayush121212"
+    },
+    "aws": {
+        "credentials": {
+            "accessKeyId": "AKIA2MHRLARPO6JX25YM",
+            "secretAccessKey": "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",
+            "endpoint": "https://s3.ap-south-1.amazonaws.com",
+            "region": "ap-south-1",
+            "signatureVersion": "v4"
+        },
+        "bucket": "shasansetu-video-upload"
+    }
+}
